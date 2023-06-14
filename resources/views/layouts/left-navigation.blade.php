@@ -16,7 +16,7 @@
                                 </span></a></li>
 
 
-                    <li><a href="user-page.html" class="nav-content-bttn open-font"><i
+                    <li><a href="{{route('setting')}}" class="nav-content-bttn open-font"><i
                                 class="material-icons btn-round-md bg-primary-gradiant ms-3">person</i><span>Author
                                 Profile </span></a></li>
                 </ul>
